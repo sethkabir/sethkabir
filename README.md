@@ -8,9 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The moon is about as wide as Australia
 
+<!--
 #### My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,tailwind,ts,vite,react,nextjs,html,css,bash,bootstrap,git,github,cpp,py,vscode)](https://skillicons.dev)
-
+-->
 #
 <span>
 <a href="#!">
