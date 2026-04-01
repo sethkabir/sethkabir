@@ -6,7 +6,6 @@
 - 💬 Ask me about frontend web technologies
 - 📫 How to reach me: seth.kabir14@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The moon is about as wide as Australia
 
 <!--
 #### My Skills
